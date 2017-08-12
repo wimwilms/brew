@@ -1,0 +1,6 @@
+rootProject.name = 'aurion.brew'
+
+include 'application'
+include 'rest'
+include 'ui'
+
